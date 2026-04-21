@@ -54,7 +54,11 @@ Este chatbot foi desenvolvido com foco em:
 - Simplificar a jornada do cliente  
 - Reduzir esforço na navegação  
 - Manter o contexto da conversa  
-- Garantir clareza nas opções
+- Garantir clareza nas opções  
+
+---
+
+
 
 ## 🎯 Foco em Experiência do Cliente (CX)
 
