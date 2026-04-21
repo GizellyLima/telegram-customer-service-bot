@@ -71,4 +71,5 @@ Este chatbot foi desenvolvido com foco em:
 
 ## 🚧 Status
 
-Em desenvolvimento — novas funcionalidades serão adicionadas.
+Em desenvolvimento — novas funcionalidades serão adicionadas..
+
