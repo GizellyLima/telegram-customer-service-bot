@@ -1,6 +1,11 @@
-# Telegram Customer Service Bot
+Chatbot de Atendimento Farmacêutico com Foco em UX e Processos
 
 Chatbot de atendimento automatizado desenvolvido em Python para simulação de Customer Service via Telegram.
+
+## 🔄 Fluxo de Atendimento do Chatbot
+
+![Fluxo do Chatbot](link-da-sua-imagem-aqui)
+
 ## 📄 Case completo
 
 👉 [Acesse o case completo](./Criação de Chatbot para Farmácia.pdf)
