@@ -8,7 +8,7 @@ Chatbot de atendimento automatizado desenvolvido em Python para simulação de C
 
 ## 📄 Case completo
 
-👉 [Acesse o case completo](./Criação de Chatbot para Farmácia.pdf)
+👉 [Acesse o case completo](.https://github.com/GizellyLima/chatbot-farmacia-ux-processos/blob/main/Cria%C3%A7%C3%A3o%20de%20Chatbot%20para%20Farm%C3%A1cia.pdf/Criação de Chatbot para Farmácia.pdf)
 
 ## Funcionalidades
 
